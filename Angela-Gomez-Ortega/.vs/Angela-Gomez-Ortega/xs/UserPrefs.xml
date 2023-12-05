@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{09970099-2288-4DFE-878B-99BB0B72FF77}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Angela-Gomez-Ortega FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angela-Gomez-Ortega/Angela-Gomez-Ortega/MainPage.xaml">
+    <Files>
+      <File FileName="Angela-Gomez-Ortega/Angela-Gomez-Ortega/MainPage.xaml.cs" />
+      <File FileName="Angela-Gomez-Ortega/Angela-Gomez-Ortega/MainPage.xaml" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angela-Gomez-Ortega" expanded="True">
+            <Node name="Angela-Gomez-Ortega" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Angela-Gomez-Ortega.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Angela-Gomez-Ortega.Android PreferredExecutionTarget="Android.Pixel_4_API_28" FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_28" />
+</Properties>

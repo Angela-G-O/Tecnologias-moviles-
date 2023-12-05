@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Angela_Gomez_Ortega.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Vertical">
+              <StackLayout Orientation="Horizontal">
+                  <Image Source="logo.jpg"
+                         HeightRequest="78"/>
+                  <Label Text="Centro_Depotivo"
+                         FontSize="25"
+                         TextColor="Blue"
+                         HorizontalTextAlignment="Center"
+                         VerticalTextAlignment="Center"
+                         FontAttributes="Italic"/>
+              </StackLayout>
+
+              <StackLayout Orientation="Vertical">
+                  <StackLayout VerticalOptions="End">
+                      <Button Text="Añadir Usuario"
+                          BackgroundColor="YellowGreen"
+                          VerticalOptions="Center"
+                          HorizontalOptions="Center"
+                          Clicked="Button_Clicked"/>
+                      <Button Text="Dar de Alta"
+                          BackgroundColor="YellowGreen"
+                          VerticalOptions="Center"
+                          HorizontalOptions="Center"
+                          Clicked="Button_Clicked_1"/>
+
+                      <Button Text="Mostrar Listado"
+                          BackgroundColor="YellowGreen"
+                          VerticalOptions="Center"
+                          HorizontalOptions="Center"
+                          Clicked="Button_Clicked_2"/>
+                      <Button Text="Listar Usuarios por fecha"
+                          BackgroundColor="YellowGreen"
+                          VerticalOptions="Center"
+                          HorizontalOptions="Center"
+                          Clicked="Button_Clicked_3"/>
+                  </StackLayout>
+              </StackLayout>
+
+
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
+

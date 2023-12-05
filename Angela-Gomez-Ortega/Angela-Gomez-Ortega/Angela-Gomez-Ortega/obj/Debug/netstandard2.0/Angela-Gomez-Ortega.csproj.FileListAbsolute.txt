@@ -1,0 +1,15 @@
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/bin/Debug/netstandard2.0/Angela-Gomez-Ortega.deps.json
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/bin/Debug/netstandard2.0/Angela-Gomez-Ortega.dll
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/bin/Debug/netstandard2.0/ref/Angela-Gomez-Ortega.dll
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/bin/Debug/netstandard2.0/Angela-Gomez-Ortega.pdb
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.csproj.AssemblyReference.cache
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.AssemblyInfoInputs.cache
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.AssemblyInfo.cs
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.csproj.CoreCompileInputs.cache
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.dll
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/refint/Angela-Gomez-Ortega.dll
+/Users/administrador/Projects/Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega/obj/Debug/netstandard2.0/Angela-Gomez-Ortega.pdb

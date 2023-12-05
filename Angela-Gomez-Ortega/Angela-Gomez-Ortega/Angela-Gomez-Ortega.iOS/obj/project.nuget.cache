@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hctaSTpZKHRmdb1gDMAVtVui/209OC5HCh4E10n11rCdImxKlfLlLAa9zCrK2QvRSfqv51j4uQgbi+RgQFwl1A==",
+  "success": true,
+  "projectFilePath": "/Users/administrador/Documents/Tecnologias moviles /Angela-Gomez-Ortega/Angela-Gomez-Ortega/Angela-Gomez-Ortega.iOS/Angela-Gomez-Ortega.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/administrador/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/administrador/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/administrador/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
